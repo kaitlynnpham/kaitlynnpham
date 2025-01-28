@@ -1,17 +1,17 @@
 Hello, I'm Kaitlynn Pham. 
 
 🚀 What You'll Find Here:
-- C++ Projects: I enjoy working on C++ projects that challenge me and help me improve my coding skills. 
+ Projects: I enjoy working on projects that challenge me and help me improve my coding skills. 
 
 🔧 Tech Stack:
-- Languages: C++ 
+- Languages: C++, Python, Javascript, Java
 - Tools: Visual Studio Code, Git, GitHub
 - Platforms: Linux, Windows
 
 📚 Education:
-- University Of Nevada-Las Vegas - Pursuing a Bachelor's in Computer Science
+- University Of Nevada-Las Vegas - Bachelor's in Computer Science
 
-- Email: KaitlynnPham@gmail.com 
+- Email: Kaitlynnpham@gmail.com 
 
 
 <!---
