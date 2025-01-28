@@ -1,6 +1,8 @@
 Hello, I'm Kaitlynn Pham. 
 
 🚀 What You'll Find Here:
+
+
  Projects: I enjoy working on projects that challenge me and help me improve my coding skills. 
 
 🔧 Tech Stack:
