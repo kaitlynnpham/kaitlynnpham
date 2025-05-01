@@ -6,8 +6,8 @@ Hello, I'm Kaitlynn Pham.
  Projects: I enjoy working on projects that challenge me and help me improve my coding skills. 
 
 🔧 Tech Stack:
-- Languages: C++, Python, Javascript, Java
-- Tools: Visual Studio Code, Git, GitHub
+- Languages: C++, Python, Javascript, Java, HTML/CSS
+- Tools: Visual Studio Code, GitHub, CMake, React, Node.js, Jira
 - Platforms: Linux, Windows
 
 📚 Education:
