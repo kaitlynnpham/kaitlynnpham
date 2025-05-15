@@ -8,7 +8,7 @@ Hello, I'm Kaitlynn Pham.
 🔧 Tech Stack:
 - Languages: C++, Python, Javascript, Java, HTML/CSS
 - Tools: Visual Studio Code, GitHub, CMake, React, Node.js, Jira
-- Platforms: Linux, Windows
+- Platforms: Linux, Windows, macOS
 
 📚 Education:
 - University Of Nevada-Las Vegas - Bachelor's in Computer Science
